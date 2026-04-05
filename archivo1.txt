@@ -1,4 +1,6 @@
 Este es mi archivo inicial
 
 
-Modificación desde github
+Modificación desde GitHub
+
+Cambio realizado en local
