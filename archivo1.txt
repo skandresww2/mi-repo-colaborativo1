@@ -1,6 +1,12 @@
 Este es mi archivo inicial
 
 
+
 Modificación desde GitHub
 
 Cambio realizado en local
+
+Modificación desde github
+
+Cambio realizado en GitHub (rama master)
+
